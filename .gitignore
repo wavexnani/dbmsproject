@@ -35,6 +35,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+# cache
+backend/__pycache__
+backend/migrations
+backend/*.db 
 
 # typescript
 *.tsbuildinfo
